@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Dr. Asha Patil",
+<<<<<<< HEAD
+    "image": "https://images.pexels.com/photos/4167541/pexels-photo-4167541.jpeg",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor1.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "General physician",
+    "degree": "MBBS, MD",
+    "experience": "12 yrs",
+    "about": "Family and general medicine expert.",
+    "available": true,
+    "fees": 500,
+    "slots_booked": {},
+    "address": { "line1": "Patil Hospital", "line2": "Pune" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Rohan Kulkarni",
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor2.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, DDVL",
+    "experience": "8 yrs",
+    "about": "Skin and hair specialist.",
+    "available": true,
+    "fees": 700,
+    "slots_booked": {},
+    "address": { "line1": "Skin Care Clinic", "line2": "Pune" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Meera Deshmukh",
+<<<<<<< HEAD
+    "image": "https://images.pexels.com/photos/3259629/pexels-photo-3259629.jpeg",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor3.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MS (OBG)",
+    "experience": "15 yrs",
+    "about": "Women’s health & maternity care.",
+    "available": false,
+    "fees": 800,
+    "slots_booked": {},
+    "address": { "line1": "City Mall Clinic", "line2": "Mumbai" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Sandeep Patil",
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor4.png",
+    "speciality": "Pediatricians",
+    "degree": "MBBS, MD",
+    "experience": "10 yrs",
+    "about": "Child care and vaccinations.",
+    "available": true,
+    "fees": 600,
+    "slots_booked": {},
+    "address": { "line1": "Children Clinic", "line2": "Nashik" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Anjali Joshi",
+<<<<<<< HEAD
+    "image": "https://images.pexels.com/photos/5327585/pexels-photo-5327585.jpeg",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor5.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "Neurologist",
+    "degree": "MBBS, DM",
+    "experience": "9 yrs",
+    "about": "Brain & nervous system care.",
+    "available": true,
+    "fees": 1000,
+    "slots_booked": {},
+    "address": { "line1": "Neuro Care", "line2": "Pune" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Rajesh Sharma",
+<<<<<<< HEAD
+    "image": "https://images.pexels.com/photos/5452293/pexels-photo-5452293.jpeg",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor6.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, DM",
+    "experience": "11 yrs",
+    "about": "Liver & digestive care.",
+    "available": false,
+    "fees": 900,
+    "slots_booked": {},
+    "address": { "line1": "GI Care Clinic", "line2": "Mumbai" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Kavita More",
+<<<<<<< HEAD
+    "image": "https://images.pexels.com/photos/4225880/pexels-photo-4225880.jpeg",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor7.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "General physician",
+    "degree": "MBBS, MD",
+    "experience": "14 yrs",
+    "about": "Preventive health & family doctor.",
+    "available": true,
+    "fees": 450,
+    "slots_booked": {},
+    "address": { "line1": "Health First Clinic", "line2": "Aurangabad" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Vikram Pawar",
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor8.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, MD",
+    "experience": "7 yrs",
+    "about": "Skin & cosmetic care.",
+    "available": true,
+    "fees": 650,
+    "slots_booked": {},
+    "address": { "line1": "Glow Clinic", "line2": "Nagpur" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Nisha Patankar",
+<<<<<<< HEAD
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor2.png",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor9.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "Pediatricians",
+    "degree": "MBBS, DCH",
+    "experience": "6 yrs",
+    "about": "Newborn & child specialist.",
+    "available": false,
+    "fees": 500,
+    "slots_booked": {},
+    "address": { "line1": "Happy Kids Clinic", "line2": "Nagpur" },
+    "date": 1726464000
+  },
+  {
+    "name": "Dr. Sameer Kulkarni",
+<<<<<<< HEAD
+    "image": "https://images.pexels.com/photos/5327656/pexels-photo-5327656.jpeg",
+=======
+    "image": "https://res.cloudinary.com/demo/image/upload/v1726480000/doctor10.png",
+>>>>>>> 769564c80ec0ea258fa167e645cbede6373ba820
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MS",
+    "experience": "13 yrs",
+    "about": "Pregnancy & infertility care.",
+    "available": true,
+    "fees": 850,
+    "slots_booked": {},
+    "address": { "line1": "Women’s Care Hospital", "line2": "Kolhapur" },
+    "date": 1726464000
+  }
+]
